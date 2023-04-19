@@ -1,4 +1,4 @@
-# Reinforcement Learning for Self-Driving Cars
+# Reinforcement Learning for Self-Driving Cars - DQN Automated Driving
 ## Introduction
 
 Reinforcement learning has made the development of self-driving cars easier by enabling agents to better understand their environment and take appropriate actions. In this project, we explore how deep Q-learning can be used to develop self-driving cars.
